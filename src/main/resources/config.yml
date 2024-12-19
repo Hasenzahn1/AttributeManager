@@ -1,0 +1,46 @@
+prefix: "&7[&bAttributeManager&7] "
+version: 1
+
+
+# Here you can enable/disable commands. Changing this requires a restart of the server
+armor_toughness: false
+attack_damage: false
+attack_knockback: false
+attack_speed: false
+burning_time: false
+explosion_knockback_resistance: false
+fall_damage_multiplier: false
+flying_speed: false
+follow_range: false
+gravity: false
+armor: false
+jump_strength: false
+knockback_resistance: false
+luck: false
+max_absorption: false
+max_health: false
+movement_efficiency: false
+movement_speed: false
+oxygen_bonus: false
+safe_fall_distance: false
+scale: true
+step_height: false
+water_movement_efficiency: false
+block_break_speed: false
+block_interaction_range: false
+entity_interaction_range: false
+mining_efficiency: false
+sneaking_speed: false
+submerged_mining_speed: false
+sweeping_damage_ration: false
+spawn_reinforcements: false
+
+# Language settings of the plugin
+lang:
+  invalidPermission: "&cYou don't have permission to use this command"
+  invalidCommand: "&cInvalid command please use &6/%attribute% <set/reset>"
+  invalidCommandSet: "&cInvalid command please use &6/%attribute% <set> <value>"
+  invalidValue: "&cInvalid value &6%value% &cfor argument of type double"
+  noEntitiesSelected: "&cNo entities found for selector &6%selector%"
+  successSet: "&aSuccessfully changed &6%name% &afor &6%valid% &achanged and failed for &6%failed% &a entities"
+  successReset: "&aSuccessfully reset &6%name% &afor &6%valid% &achanged and failed for &6%failed% &a entities"

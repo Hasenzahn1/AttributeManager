@@ -1,0 +1,7 @@
+name: AttributeManager
+version: '1.0-SNAPSHOT'
+main: me.hasenzahn1.attributeManager.AttributeManager
+api-version: '1.21'
+load: STARTUP
+authors: [ Hasenzahn1 ]
+description: A plugin for easy modifiying player attributes in a controlled manner.

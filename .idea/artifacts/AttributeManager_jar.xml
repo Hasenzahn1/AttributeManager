@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AttributeManager:jar">
+    <output-path>$PROJECT_DIR$/../../Servers/Canstein/1.21.1/ParticleAnimationToolkit/plugins</output-path>
+    <root id="archive" name="AttributeManager.jar">
+      <element id="module-output" name="AttributeManager" />
+    </root>
+  </artifact>
+</component>
